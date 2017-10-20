@@ -1,3 +1,10 @@
+"""
+Scribe
+------
+
+Usage:
+    %load_ext scribe
+"""
 import time
 VERSION = '0.0.1'
 IGNORE = {
